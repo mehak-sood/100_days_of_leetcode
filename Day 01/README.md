@@ -1,6 +1,4 @@
-# LeetCode Solutions Repository
-
-This repository contains my solutions to various LeetCode problems and SQL challenges. Below you'll find explanations for two specific problems:
+# LeetCode Solutions Repository - DAY 01
 
 ## 1. Two Sum (Python)
 
