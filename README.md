@@ -14,10 +14,10 @@ This repository tracks my journey of solving LeetCode problems every day for 100
 
 ## 📌 Rules I'm Following
 
-- Solve at least **1 LeetCode problem every day** for 100 days.
+- Solve at least **2 LeetCode problem every day** for 100 days.
 - Problems will range across **Easy, Medium, and Hard** levels.
-- Focus areas include **Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, Sliding Window, Backtracking**, and more.
-- I will also focus on solving SQL questions from Leetcode
+- The first problem Focus areas include **Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, Sliding Window, Backtracking**, and more.
+- For the second problem, I will focus on solving **SQL questions** from Leetcode or Stratascratch
 - Track progress daily with solution code and brief explanations.
 
 ---
