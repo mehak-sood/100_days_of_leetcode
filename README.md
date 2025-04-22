@@ -27,10 +27,12 @@ This repository tracks my journey of solving LeetCode problems every day for 100
 ```
 100-days-of-leetcode/
 ├── Day 01 - Two Sum/
-│   ├── two_sum.py
+│   ├── two_sum.py 
+│   ├── 2nd Highest Salary sql 
 │   └── README.md
 ├── Day 02 - Valid Parentheses/
 │   ├── valid_parentheses.py
+│   ├── SQl
 │   └── README.md
 ...
 └── Day 100 - [Problem Name]/
