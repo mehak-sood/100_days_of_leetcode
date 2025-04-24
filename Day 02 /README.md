@@ -1,4 +1,4 @@
-# 100 Days of LeetCode - Day 2
+# 100 Days of LeetCode - Day 02
 
 ## 1. Contains Duplicate (Python)
 
@@ -106,7 +106,7 @@ JOIN weather w2
 
 ## Challenge Progress
 
-- **Day:** 2 / 100  
+- **Day:** 02 / 100  
 - **Topic:** Arrays & SQL Joins  
 - **Status:** ✅ Completed  
 
