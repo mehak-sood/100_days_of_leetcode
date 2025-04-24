@@ -7,14 +7,14 @@ This repository tracks my journey of solving LeetCode problems every day for 100
 
 ## 📅 Challenge Timeline
 
-**Start Date:** April 21,2025  
+**Start Date:** April 21, 2025  
 **End Date:** July 29, 2025
 
 ---
 
 ## 📌 Rules I'm Following
 
-- Solve at least **2 LeetCode problem every day** for 100 days.
+- Solve at least **2-3 LeetCode problems every day** for 100 days.
 - Problems will range across **Easy, Medium, and Hard** levels.
 - The first problem Focus areas include **Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, Sliding Window, Backtracking**, and more.
 - For the second problem, I will focus on solving **SQL questions** from Leetcode or Stratascratch
@@ -26,13 +26,13 @@ This repository tracks my journey of solving LeetCode problems every day for 100
 
 ```
 100-days-of-leetcode/
-├── Day 01 - Two Sum/
+├── Day 01 
 │   ├── two_sum.py 
-│   ├── 2nd Highest Salary sql 
+│   ├── second_highest_salary.sql 
 │   └── README.md
-├── Day 02 - Valid Parentheses/
-│   ├── valid_parentheses.py
-│   ├── SQl
+├── Day 02 
+│   ├── contains_duplicates.py
+│   ├── rising_temperature.sql
 │   └── README.md
 ...
 └── Day 100 - [Problem Name]/
@@ -46,12 +46,21 @@ Each folder includes:
 
 ---
 
-## 🔥 Progress Tracker
+## 🔥 Progress Tracker - Python
 
 | Day | Problem | Difficulty | Status | Solution |
 |-----|---------|------------|--------|----------|
-| 1   | Two Sum | Easy       | ✅ Done | [Link](./Day%2001%20-%20Two%20Sum/two_sum.py) |
-| 2   | Valid Parentheses | Easy | ✅ Done | [Link](./Day%2002%20-%20Valid%20Parentheses/valid_parentheses.py) |
+| 1   | Two Sum | Easy       | ✅ Done | [Link](https://github.com/mehak-sood/100_days_of_leetcode/blob/9e54a2dbb52ad0f5c7710ea81f0c843e732a2dde/Day%2001/two_sum.py) |
+| 2   | Contains Duplicates | Easy | ✅ Done | [Link](https://github.com/mehak-sood/100_days_of_leetcode/blob/9e54a2dbb52ad0f5c7710ea81f0c843e732a2dde/Day%2002%20/contains_duplicates.py) |
+| ... | ...     | ...        | ...    | ...      |
+| 100 |         |            | ⏳      |          |
+
+## 🔥 Progress Tracker - SQL
+
+| Day | Problem | Difficulty | Status | Solution |
+|-----|---------|------------|--------|----------|
+| 1   | Second Highest Salary | Med       | ✅ Done | [Link](https://github.com/mehak-sood/100_days_of_leetcode/blob/9e54a2dbb52ad0f5c7710ea81f0c843e732a2dde/Day%2001/Second%20Highest%20Salary) |
+| 2   | Rising temperature | Easy | ✅ Done | [Link](https://github.com/mehak-sood/100_days_of_leetcode/blob/9e54a2dbb52ad0f5c7710ea81f0c843e732a2dde/Day%2002%20/Rising%20temperature.sql) |
 | ... | ...     | ...        | ...    | ...      |
 | 100 |         |            | ⏳      |          |
 
