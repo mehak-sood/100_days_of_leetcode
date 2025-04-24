@@ -1,4 +1,6 @@
-# LeetCode Solutions Repository - DAY 01
+# LeetCode Solutions Repository
+
+This repository contains my solutions to various LeetCode problems and SQL challenges. Below you'll find explanations for two specific problems:
 
 ## 1. Two Sum (Python)
 
@@ -80,6 +82,7 @@ WHERE salary_rank = 2;
 - **Time Complexity**: O(n) for both solutions - They require scanning the table to find the maximum values.
 - **Space Complexity**: O(1) - Both solutions use constant space for the operations.
 
+## Challenge Progress
 
 ## Contributing
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional solutions.
