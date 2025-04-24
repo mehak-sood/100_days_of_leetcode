@@ -1,4 +1,6 @@
-# 100 Days of LeetCode - Day 1
+# LeetCode Solutions Repository
+
+This repository contains my solutions to various LeetCode problems and SQL challenges. Below you'll find explanations for two specific problems:
 
 ## 1. Two Sum (Python)
 
@@ -82,6 +84,5 @@ WHERE salary_rank = 2;
 
 ## Challenge Progress
 
-- **Day:** 1 / 100  
-- **Topic:** Arrays & SQL Joins  
-- **Status:** ✅ Completed  
+## Contributing
+Feel free to contribute by submitting pull requests or opening issues for improvements or additional solutions.
