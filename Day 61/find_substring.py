@@ -1,20 +1,24 @@
+Solution 1:
 class Solution:
-    def longestCommonPrefix(self, strs: List[str]) -> str:
-        # If the list is empty, return an empty string
-        if len(strs) == 0:
-            return ""
-        
-        # Assume the first string is the common prefix
-        pre = strs[0]
+    def strStr(self, haystack: str, needle: str) -> int:
+        # Use Python's built-in string find method
+        # Returns the index of the first occurrence of 'needle' in 'haystack', or -1 if not found
+        return haystack.find(needle)
 
-        # Iterate through the rest of the strings
-        for i in range(1, len(strs)):
-            # While the current prefix is not a prefix of strs[i]
-            while strs[i].find(pre) != 0:
-                # Trim the last character from the prefix
-                pre = pre[0:len(pre)-1]
-                # If prefix becomes empty, return ""
-                if pre == "":
-                    return ""
-        # Return the longest common prefix
-        return pre
+Solution 2:
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+        m = len(needle)  # Length of the needle
+        n = len(haystack)  # Length of the haystack
+
+        # Loop through each possible window of length m in haystack
+        for win in range(0, n - m + 1):
+            # Check character by character if needle matches haystack at this window
+            for i in range(m):
+                if needle[i] != haystack[win + i]:  # Mismatch found
+                    break  # Exit inner loop and slide the window
+                if i == m - 1:  # If we reached the end of needle and all matched
+                    return win  # Return starting index of match
+        return -1  # No match found
+
+
